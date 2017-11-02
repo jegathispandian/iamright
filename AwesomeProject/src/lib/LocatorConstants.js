@@ -1,0 +1,5 @@
+export const PRODUCT_CODE_GARAGES = 'garages';
+export const PRODUCT_CODE_HOSPITALS = 'hospitals';
+
+export const SET_LOCATOR_SOURCE = 'SET_LOCATOR_SOURCE';
+export const SET_LOCATOR_PRODUCT_CODE = 'SET_LOCATOR_PRODUCT_CODE';
